@@ -1,2 +1,2 @@
 # Project-files
-Personal project showcase file
+Personal projects showcase file
